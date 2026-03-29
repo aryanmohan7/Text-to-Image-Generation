@@ -1,6 +1,6 @@
 # Text-to-Image Generation
 
-This project focuses on generating realistic images from natural language text prompts using deep learning and diffusion models. It is part of a PRAD Lab initiative aimed at exploring generative AI and multimodal learning systems.
+This project focuses on generating realistic images from natural language text prompts using deep learning and diffusion models. Aimed at exploring generative AI and multimodal learning systems.
 
 The core objective is to translate textual descriptions into visually coherent images using state-of-the-art techniques in NLP and computer vision.
 
